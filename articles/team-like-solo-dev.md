@@ -4,8 +4,8 @@ emoji: "👥"
 type: "idea"
 topics:
   - "git"
-published: false
-published_at: "2023-05-07 00:00"
+published: true
+published_at: "2023-05-07 12:03"
 ---
 
 ## 背景
