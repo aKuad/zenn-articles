@@ -4,6 +4,8 @@ emoji: "👥"
 type: "idea"
 topics:
   - "git"
+  - "github"
+  - "個人開発"
 published: true
 published_at: "2023-05-07 12:03"
 ---
