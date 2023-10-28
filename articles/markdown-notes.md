@@ -41,7 +41,7 @@ published_at: "2023-10-28 15:06"
 さて、上の Web ページを読んだ方は気付いたかもしれません。「あれ、テーブルの文法は？」「打ち消し線は？」
 
 ```markdown
-| Colum 1 | Colum 2 |
+| Column 1 | Column 2 |
 | --- | --- |
 | Content 1-1 | Content 2-1 |
 | Content 1-2 | Content 2-2 |
