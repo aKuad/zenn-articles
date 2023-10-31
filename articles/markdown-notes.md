@@ -63,9 +63,17 @@ Tables と Strikethrough に (extension) の表示が。
 
 ## Zenn/Qiita/GitHub には補足を示せる文法がある
 
+```markdown
 :::message
 ここで言う補足というのは、このようなテキスト枠のこと。
 :::
+```
+
+:::message
+ここで言う補足というのは、このようなテキスト枠のこと。
+:::
+
+Qiita では `:::note` が同等の機能。
 
 一度や二度は見かけたことはあったはずが、僕はそれをすっかり忘れて代わりに引用表記をよく使っていました (at Qiita)。
 
@@ -76,6 +84,11 @@ Tables と Strikethrough に (extension) の表示が。
 @[card](https://qiita.com/Qiita/items/c686397e4a0f4f11683d#note---%E8%A3%9C%E8%B6%B3%E8%AA%AC%E6%98%8E)
 
 割と最近 (2022/05/19)、GitHub にも似たようなものが追加されました (公式 Docs では警告と呼ばれている)。
+
+```markdown
+> [!NOTE]
+> Any note here
+```
 
 @[card](https://github.com/orgs/community/discussions/16925)
 
@@ -92,6 +105,14 @@ Material for MkDocs という Markdown 静的サイトジェネレータの機�
 :::
 
 ## Zenn/Qiita にはコード差分を示せる文法がある
+
+````markdown
+```diff c
++   printf("Hello\n");
+-   printf("World\n");
+    return 0;
+```
+````
 
 ```diff c
 +   printf("Hello\n");
