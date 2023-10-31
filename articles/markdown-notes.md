@@ -128,7 +128,7 @@ Material for MkDocs という Markdown 静的サイトジェネレータの機�
 
 ## 第1レベル見出しは文書先頭 1度のみの使用が推奨されている
 
-VSCode 拡張の Markdown Lint に規定が、それから Zenn の Markdown チートシートにも推奨事項として記載されています。
+Markdown Lint に規定が、それから Zenn の Markdown チートシートにも推奨事項として記載されています。
 
 @[card](https://github.com/DavidAnson/markdownlint/blob/v0.31.1/doc/md025.md)
 
