@@ -107,6 +107,6 @@ PR 1つで 1つだけのことをやっていれば、PR のタイトルから�
 
 今回のこの開発、どんなに小さい編集でも 1日 1コミット以上を毎日するようにがんばりました。おかげで芝生がちゃんと芝生していて、ちょっと感動できます。
 
-![Contributing](/images/team-like-solo-dev/solo-dev-contrib.png)
+![Contributing](/images/team-like-solo-dev/solo-dev-contrib.webp)
 
 (途切れた日もちょくちょくあるけど･･･。)
