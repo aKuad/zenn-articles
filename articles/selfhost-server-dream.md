@@ -4,7 +4,7 @@ emoji: "🖥"
 type: "idea"
 topics:
 published: true
-published_at: "2026-01-21 22:42"
+published_at: "2026-03-15 23:02"
 ---
 
 ## ガチ自家サーバへの憧れ
