@@ -21,7 +21,7 @@ published_at: "2025-12-14 15:51"
 
 そのシステムを自作しました。
 
-@[card](https://iitomo-1of100.deno.dev/)
+@[card](https://iitomo-1of100.app/)
 
 ![Head image](/images/iitomo-1of100-dev/head-image.webp)
 
