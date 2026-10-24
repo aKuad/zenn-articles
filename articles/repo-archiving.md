@@ -6,7 +6,7 @@ topics:
   - "github"
   - "ポエム"
 published: true
-published_at: "2026-10-24 22:42"
+published_at: "2026-10-24 17:28"
 ---
 
 ## リポジトリ、開けっ放しになってませんか？
